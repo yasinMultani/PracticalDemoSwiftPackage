@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swiftPackageNetworkDemo",
+        "repositoryURL": "https://github.com/yasinMultani/swiftPackageNetworkDemo.git",
+        "state": {
+          "branch": null,
+          "revision": "60dcc7713da1467e4dffc1313aea978dd92f6a31",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
